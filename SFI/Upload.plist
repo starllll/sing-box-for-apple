@@ -5,8 +5,9 @@
 	<key>destination</key>
 	<string>upload</string>
 	<key>method</key>
-	<string>app-store</string>
-	<key>manageAppVersionAndBuildNumber</key>
+	<string>ad-hoc</string>
+	<key>signingStyle</key>
+	<string>manual</string>
 	<true/>
 	<key>uploadSymbols</key>
 	<true/>
